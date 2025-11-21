@@ -5,7 +5,7 @@
     box-sizing: border-box;
     border-width: 0;
     border-style: solid;
-    border-color: rgba(var(--gray-200), 1);
+    /*border-color: rgba(var(--gray-200), 1);*/
 }
 :after,
 :before {
@@ -238,9 +238,9 @@ textarea {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background-color: #fff;
-    border-color: rgba(var(--gray-500), var(--tw-border-opacity, 1));
-    border-width: 1px;
+    /*background-color: #fff;*/
+    /*border-color: rgba(var(--gray-500), var(--tw-border-opacity, 1));*/
+    /*border-width: 1px;*/
     border-radius: 0;
     padding: 0.5rem 0.75rem;
     font-size: 1rem;
@@ -345,9 +345,9 @@ select {
     flex-shrink: 0;
     height: 1rem;
     width: 1rem;
-    color: #2563eb;
-    background-color: #fff;
-    border-color: rgba(var(--gray-500), var(--tw-border-opacity, 1));
+    /*color: #2563eb;*/
+    /*background-color: #fff;*/
+    /*border-color: rgba(var(--gray-500), var(--tw-border-opacity, 1));*/
     border-width: 1px;
     --tw-shadow: 0 0 #0000;
 }
